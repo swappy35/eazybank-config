@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: Welcome to EazyBank loans section
+  contactDetails:
+    name: Developer - Swapnil Pal
+    email: pal35swapnil35@gmail.com
+  onCallSupport:
+    - 9876543210
+    - 8765432109

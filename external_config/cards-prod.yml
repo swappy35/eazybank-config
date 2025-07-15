@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: Welcome to EazyBank cards section of prod profile
+  contactDetails:
+    name: PO - Swapnil Pal
+    email: pal35swapnil35@gmail.com
+  onCallSupport:
+    - 9876543210
+    - 8765432109

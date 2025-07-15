@@ -1,0 +1,11 @@
+build:
+  version: 2.0
+
+accounts:
+  message: Welcome to EazyBank accounts section of QA profile
+  contactDetails:
+    name: QA - Swapnil Pal
+    email: pal35swapnil35@gmail.com
+  onCallSupport:
+    - 9876543210
+    - 8765432109

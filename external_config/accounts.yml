@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: Welcome to EazyBank accounts section
+  contactDetails:
+    name: Developer - Swapnil Pal
+    email: pal35swapnil35@gmail.com
+  onCallSupport:
+    - 9876543210
+    - 8765432109
