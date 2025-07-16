@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: Welcome to EazyBank accounts section of production profile
+  message: Welcome to EazyBank accounts section of prod profile
   contactDetails:
     name: PO - Swapnil Pal
     email: "{cipher}0de4d375698226ee75af22e4ee084e86f8a2ac36d0520f5d428624c8f9961161660269aeabb107537643badc792bcb6f"
