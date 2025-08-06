@@ -4,7 +4,7 @@ build:
 accounts:
   message: Welcome to EazyBank accounts section
   contactDetails:
-    name: Developer - Swapnil Pal
+    name: Developer [to check docker with webhook] - Swapnil Pal
     email: pal35swapnil35@gmail.com
   onCallSupport:
     - 9876543210
