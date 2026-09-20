@@ -5,7 +5,7 @@ accounts:
   message: Welcome to EazyBank accounts section of prod profile
   contactDetails:
     name: PO - Swapnil Pal
-    email: "{cipher}0de4d375698226ee75af22e4ee084e86f8a2ac36d0520f5d428624c8f9961161660269aeabb107537643badc792bcb6f"
+    email: "{cipher}e9441bbbf3c54c53a09d422d0a176e6e7d71abb17d5c670ab00688ae73be6fa0e1dc254e31cd0085bbaece513d98ce96"
   onCallSupport:
     - 9876543210
     - 8765432109
