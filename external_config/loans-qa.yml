@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 loans:
-  message: Welcome to EazyBank loans section of QA(Tes) profile
+  message: Welcome to EazyBank loans section of QA(Test) profile
   contactDetails:
     name: QA - Swapnil Pal
     email: pal35swapnil35@gmail.com
