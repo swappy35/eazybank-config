@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: Welcome to EazyBank accounts section of productons profile
+  message: Welcome to EazyBank accounts section of productons() profile
   contactDetails:
     name: PO - Swapnil Pal
     email: "{cipher}e9441bbbf3c54c53a09d422d0a176e6e7d71abb17d5c670ab00688ae73be6fa0e1dc254e31cd0085bbaece513d98ce96"
