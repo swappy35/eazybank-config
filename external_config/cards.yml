@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: Welcome to EazyBank cards(dev) section
+  message: Welcome to EazyBank cards(develop) section
   contactDetails:
     name: Developer - Swapnil Pal
     email: pal35swapnil35@gmail.com
